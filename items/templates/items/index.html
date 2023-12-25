@@ -5,11 +5,11 @@
     <title>Title</title>
 </head>
 <body>
-{% if item_list %}
+{% if item %}
     <ul>
-    {% for item in item_list %}
-        <li><a href="/items/{{ Items.ItemCode }}/">{{ Items.ItemName }}</a></li>
-    {% end for %}
+    {% for item in item %}
+        <li><a href="{% url 'items:disp' item.ItemCode%}">{{ item.ItemName }}</a></li>
+    {% endfor %}
     </ul>
 {% else %}
     <p>No Items are available.</p>

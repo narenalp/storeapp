@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3de5194e-a166-4ae5-a8bb-956083e0ed91" name="Changes" comment="first commit" />
+    <list default="true" id="3de5194e-a166-4ae5-a8bb-956083e0ed91" name="Changes" comment="Second Commit">
+      <change afterPath="$PROJECT_DIR$/items/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/items/templates/items/add_item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/items/templates/items/disp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/items/templates/items/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/items/templates/items/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/items/templates/items/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/items/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/items/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/items/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/items/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -31,6 +42,12 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -133,7 +150,55 @@
       <option name="project" value="LOCAL" />
       <updated>1703256253280</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second Commit">
+      <option name="closed" value="true" />
+      <created>1703257557392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703257557392</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Second Commit">
+      <option name="closed" value="true" />
+      <created>1703257563272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703257563272</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Second Commit">
+      <option name="closed" value="true" />
+      <created>1703257579700</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703257579700</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Second Commit">
+      <option name="closed" value="true" />
+      <created>1703257598049</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703257598049</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Second Commit">
+      <option name="closed" value="true" />
+      <created>1703257801003</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703257801003</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Second Commit">
+      <option name="closed" value="true" />
+      <created>1703257815649</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703257815649</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,8 +241,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Second Commit" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
 </project>
